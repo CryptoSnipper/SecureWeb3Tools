@@ -14,3 +14,7 @@ At Fire, we believe everyone should know what they're agreeing to BEFORE they si
 3. https://revoke.cash/
 
 When using dapps like Uniswap or OpenSea you have to grant them permission to spend your tokens and NFTs. This is called a token approval. If you don't revoke these approvals, the dapp can spend your tokens forever. Take back control by revoking your approvals.
+
+4. Scan any websites
+
+https://www.youtube.com/watch?v=bRkpYEmygow
